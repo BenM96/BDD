@@ -12,7 +12,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class TeaTests {
+public class Test {
 	Tea tea= new Tea();
 	ChromeDriver driver;
 	
